@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=1E90FF&size=25&center=true&vCenter=true&width=600&height=60&lines=Software+Engineer;Web+Developer;Tech+Enthusiast)](https://github.com/GeorgeAyy)
 
-I'm a software engineer with a passion for web development and technology. I specialize in [insert your areas of expertise here], and I'm always seeking to expand my skills and knowledge.
+I'm a software engineer with a passion for web development and technology. I'm always seeking to expand my skills and knowledge.
 
 - 🚀 I'm currently working on [https://github.com/GeorgeAyy/Web-Ninjas-El-Cyber]
 - 🌱 I'm currently learning [MERN Stack]
