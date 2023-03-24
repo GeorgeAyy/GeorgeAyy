@@ -45,7 +45,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-George%20Ayman-blue?style=flat&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://discordapp.com/users/205465963678793728">
-<img src="https://img.shields.io/badge/Discord-petrole-black?style=flat&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Discord-petrole%238582-7289DA?style=flat&logo=discord&logoColor=white" />
 </a>
 
 </p>
