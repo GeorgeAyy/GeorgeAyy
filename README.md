@@ -28,10 +28,10 @@
   <a href="https://github.com/GeorgeAyy/Web-Ninjas-El-Cyber">
     <img src="https://img.shields.io/badge/Furniture%20Ecommerce%20Store-MERN%20Stack-brightgreen" />
   </a>
-  <a href="https://github.com/yourusername/project2">
+  <a href="https://github.com/GeorgeAyy/Splitwise">
     <img src="https://img.shields.io/badge/Spliwise-C%2B%2B%20QT%20Creator-blue" />
   </a>
-  <a href="https://github.com/yourusername/project3">
+  <a href="https://github.com/GeorgeAyy/Recruitment-Management-System">
     <img src="https://img.shields.io/badge/Recruitment%20Management%20System-Java%2C%20JavaFX-orange" />
   </a>
 </p>
