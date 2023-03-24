@@ -3,7 +3,7 @@
 I'm a software engineer with a passion for web development and technology. I specialize in [insert your areas of expertise here], and I'm always seeking to expand my skills and knowledge.
 
 - 🚀 I'm currently working on [https://github.com/GeorgeAyy/Web-Ninjas-El-Cyber]
-- 🌱 I'm currently learning [MERN Stack Web Development]
+- 🌱 I'm currently learning [MERN Stack]
 - 📫 How to reach me: Discord: petrole#8582
 
 ### My Skills:
