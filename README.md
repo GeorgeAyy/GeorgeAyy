@@ -41,10 +41,10 @@
 <p align="center">
   <a href="mailto:georgeayman2003@gmail.com">
     <img src="https://img.shields.io/badge/Email-georgeayman2003%40gmail.com-red?style=flat"></a>
-<a href="https://www.linkedin.com/in/georgeayman/">
+<a href="https://www.linkedin.com/in/georgeayman/](https://www.linkedin.com/in/george-ayman-771349261/">
 <img src="https://img.shields.io/badge/LinkedIn-George%20Ayman-blue?style=flat&logo=linkedin&logoColor=white" />
 </a>
-<a href="discordapp.com/users/205465963678793728">
+<a href="https://discordapp.com/users/205465963678793728">
 <img src="https://img.shields.io/badge/Discord-petrole-black?style=flat&logo=github&logoColor=white" />
 </a>
 
