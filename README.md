@@ -5,7 +5,7 @@
 
 <!-- Introduction Section -->
 <p align="center">
-  Hi there! 👋 I'm George, a sophomore at university with a passion for software engineering and web development. I am constantly seeking to expand my skills and knowledge in these areas, and I am excited to be on this journey!
+  Hi there! 👋 I'm George, a Junior at university with a passion for software engineering and web development. I am constantly seeking to expand my skills and knowledge in these areas, and I am excited to be on this journey!
 </p>
 
 <!-- Skills Section -->
