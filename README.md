@@ -5,7 +5,7 @@
 
 <!-- Introduction Section -->
 <p align="center">
-  Hi there! 👋 I'm George, a Junior at university with a passion for software engineering and web development. I am constantly seeking to expand my skills and knowledge in these areas, and I am excited to be on this journey!
+  Hi there! 👋 I'm George, a Junior at university with a passion for web development and mobile development. I am constantly seeking to expand my skills and knowledge in these areas, and I am excited to be on this journey!
 </p>
 
 <!-- Skills Section -->
@@ -20,7 +20,12 @@
   <img src="https://img.shields.io/badge/Express.js-404D59?style=flat" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black" />
 </p>
+
 
 <!-- Projects Section -->
 <h3 align="center">My Projects:</h3>
@@ -28,13 +33,17 @@
   <a href="https://github.com/GeorgeAyy/Web-Ninjas-El-Cyber">
     <img src="https://img.shields.io/badge/Furniture%20Ecommerce%20Store-MERN%20Stack-brightgreen" />
   </a>
-  <a href="https://github.com/GeorgeAyy/Splitwise">
-    <img src="https://img.shields.io/badge/Spliwise-C%2B%2B%20QT%20Creator-blue" />
+  <a href="https://github.com/GeorgeAyy/narrativenexus">
+    <img src="https://img.shields.io/badge/Narrative%20Nexus-React%2C%20Django%2C%20MongoDB-blue" />
   </a>
-  <a href="https://github.com/GeorgeAyy/Recruitment-Management-System">
-    <img src="https://img.shields.io/badge/Recruitment%20Management%20System-Java%2C%20JavaFX-orange" />
+  <a href="https://github.com/SWE-Project-2023/App">
+    <img src="https://img.shields.io/badge/Qanaa%20Pharm-MERN%20Stack-blueviolet" />
+  </a>
+  <a href="https://github.com/GeorgeAyy/ASWE">
+    <img src="https://img.shields.io/badge/El%20Medico-SpringBoot%2C%20MySQL-orange" />
   </a>
 </p>
+
 
 <!-- Contact Section -->
 <h3 align="center">How to reach me:</h3>
