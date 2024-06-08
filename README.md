@@ -1,9 +1,5 @@
 # Hi there! 👋 I'm George
 
-![Profile Views](https://komarev.com/ghpvc/?username=GeorgeAyy&color=blue)
-![Followers](https://img.shields.io/github/followers/GeorgeAyy?label=Followers)
-![Stars](https://img.shields.io/github/stars/GeorgeAyy?label=Stars)
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/35720312/109140596-170ce200-778e-11eb-9d24-fc0a95a2072d.gif" width="600"/>
   <br>
@@ -41,5 +37,11 @@
 
 ---
 
+<div align="center">
+  
 Feel free to reach out if you have any questions or would like to collaborate on a project!
+</br>
+</br>
+[![](https://visitcount.itsvg.in/api?id=GeorgeAyy&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
