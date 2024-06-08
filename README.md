@@ -14,12 +14,20 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeAyy&layout=compact&theme=radical">
 </div>
 
-## Projects
+## 📂Projects
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GeorgeAyy&repo=Web-Ninjas-El-Cyber&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GeorgeAyy&repo=narrativenexus&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SWE-Project-2023&repo=App&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GeorgeAyy&repo=ASWE&theme=radical" />
+  <a href="https://github.com/GeorgeAyy/Web-Ninjas-El-Cyber">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GeorgeAyy&repo=Web-Ninjas-El-Cyber&theme=radical" />
+  </a>
+  <a href="https://github.com/GeorgeAyy/narrativenexus">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GeorgeAyy&repo=narrativenexus&theme=radical" />
+  </a>
+  <a href="https://github.com/SWE-Project-2023/App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SWE-Project-2023&repo=App&theme=radical" />
+  </a>
+  <a href="https://github.com/GeorgeAyy/ASWE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GeorgeAyy&repo=ASWE&theme=radical" />
+  </a>
 </div>
 
 ## Contact Me
