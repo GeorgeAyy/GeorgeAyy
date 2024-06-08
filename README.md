@@ -4,10 +4,10 @@
 ![Followers](https://img.shields.io/github/followers/GeorgeAyy?label=Followers)
 ![Stars](https://img.shields.io/github/stars/GeorgeAyy?label=Stars)
 
-I'm a Junior at university with a passion for web development and mobile development.
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/35720312/109140596-170ce200-778e-11eb-9d24-fc0a95a2072d.gif" width="600"/>
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Mobile+Developer;Web+Developer&center=true&width=500&height=50&color=blue&vCenter=true&size=22" alt="Typing Animation"/>
 </div>
 
 ## Skills
@@ -37,7 +37,9 @@ I'm a Junior at university with a passion for web development and mobile develop
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeAyy&layout=compact&theme=radical)
 
 ## Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=GeorgeAyy&theme=radical&no-bg=true&no-frame=true&column=7)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GeorgeAyy&theme=radical&no-bg=true&no-frame=true&column=7"/>
+</div>
 
 ## Projects
 
