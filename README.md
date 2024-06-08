@@ -1,61 +1,74 @@
-<!-- Header Section -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=1E90FF&size=30&center=true&vCenter=true&width=500&height=60&lines=Software+Engineer;Web+Developer;Tech+Enthusiast" />
-</h1>
+# Hi there! 👋 I'm George
 
-<!-- Introduction Section -->
-<p align="center">
-  <img src="https://img.shields.io/badge/George-Ayman-blueviolet?style=for-the-badge" />
-</p>
-<p align="center">
-  Hi there! 👋 I'm George, a Junior at university with a passion for web development and mobile development. I am constantly seeking to expand my skills and knowledge in these areas, and I am excited to be on this journey!
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=GeorgeAyy&color=blue)
+![Followers](https://img.shields.io/github/followers/GeorgeAyy?label=Followers)
+![Stars](https://img.shields.io/github/stars/GeorgeAyy?label=Stars)
 
-<!-- Skills Section -->
-<h2 align="center">Skills</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-</p>
+I'm a Junior at university with a passion for web development and mobile development.
 
-<!-- Projects Section -->
-<h2 align="center">Projects</h2>
-<p align="center">
-  <a href="https://github.com/GeorgeAyy/Web-Ninjas-El-Cyber">
-    <img src="https://img.shields.io/badge/Furniture%20Ecommerce%20Store-MERN%20Stack-brightgreen?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/GeorgeAyy/narrativenexus">
-    <img src="https://img.shields.io/badge/Narrative%20Nexus-React%2C%20Django%2C%20MongoDB-blue?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/SWE-Project-2023/App">
-    <img src="https://img.shields.io/badge/Qanaa%20Pharm-MERN%20Stack-blueviolet?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/GeorgeAyy/ASWE">
-    <img src="https://img.shields.io/badge/El%20Medico-SpringBoot%2C%20MySQL-orange?style=for-the-badge" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/35720312/109140596-170ce200-778e-11eb-9d24-fc0a95a2072d.gif" width="600"/>
+</div>
 
-<!-- Contact Section -->
-<h2 align="center">Contact Me</h2>
-<p align="center">
+## Skills
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" />
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
+  <img src="https://img.icons8.com/office/40/000000/react.png" alt="React" />
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
+  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" />
+  <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL" />
+  <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" />
+  <img src="https://img.icons8.com/fluency/48/000000/flutter.png" alt="Flutter" />
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Native" />
+</div>
+
+## GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GeorgeAyy&show_icons=true&theme=radical" alt="George's GitHub stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GeorgeAyy&theme=radical" alt="GitHub Streak" height="180"/>
+</div>
+
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeAyy&layout=compact&theme=radical)
+
+## Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=GeorgeAyy&theme=radical&no-bg=true&no-frame=true&column=7)
+
+## Projects
+
+### [Web Ninjas El Cyber](https://github.com/GeorgeAyy/Web-Ninjas-El-Cyber)
+**Furniture Ecommerce Store** (MERN)
+
+### [Narrative Nexus](https://github.com/GeorgeAyy/narrativenexus)
+**Narrative Nexus** (React, Django, MongoDB)
+
+### [Qanaa Pharm](https://github.com/SWE-Project-2023/App)
+**Pharmacy Management System** (MERN Stack)
+
+### [El Medico](https://github.com/GeorgeAyy/ASWE)
+**Medical Management System** (Spring Boot, MySQL)
+
+## Contact Me
+<div align="center">
   <a href="mailto:georgeayman2003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-georgeayman2003%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-georgeayman2003%40gmail.com-red" alt="Email Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/george-ayman-771349261/">
-    <img src="https://img.shields.io/badge/LinkedIn-George%20Ayman-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/george-ayman">
+    <img src="https://img.shields.io/badge/LinkedIn-George%20Ayman-blue" alt="LinkedIn Badge"/>
   </a>
   <a href="https://discordapp.com/users/205465963678793728">
-    <img src="https://img.shields.io/badge/Discord-petrole%238582-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-petrole%23205465963678793728-7289DA" alt="Discord Badge"/>
   </a>
-</p>
+</div>
+
+## GitHub Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GeorgeAyy&theme=redical)
+
+---
+
+Feel free to reach out if you have any questions or would like to collaborate on a project!
