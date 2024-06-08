@@ -42,18 +42,15 @@
 </div>
 
 ## Projects
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GeorgeAyy&repo=Web-Ninjas-El-Cyber&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GeorgeAyy&repo=narrativenexus&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SWE-Project-2023&repo=App&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GeorgeAyy&repo=ASWE&theme=radical" />
+</div>
 
-### [Web Ninjas El Cyber](https://github.com/GeorgeAyy/Web-Ninjas-El-Cyber)
-**Furniture Ecommerce Store** (MERN)
-
-### [Narrative Nexus](https://github.com/GeorgeAyy/narrativenexus)
-**Narrative Nexus** (React, Django, MongoDB)
-
-### [Qanaa Pharm](https://github.com/SWE-Project-2023/App)
-**Pharmacy Management System** (MERN Stack)
-
-### [El Medico](https://github.com/GeorgeAyy/ASWE)
-**Medical Management System** (Spring Boot, MySQL)
+## GitHub Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GeorgeAyy&theme=redical)
 
 ## Contact Me
 <div align="center">
@@ -67,9 +64,6 @@
     <img src="https://img.shields.io/badge/Discord-petrole-7289DA" alt="Discord Badge"/>
   </a>
 </div>
-
-## GitHub Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GeorgeAyy&theme=redical)
 
 ---
 
