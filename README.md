@@ -18,10 +18,6 @@
 ## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeAyy&layout=compact&theme=radical)
 
-## Trophies
-![](https://github-trophies.vercel.app/?username=GeorgeAyy&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-
 ## Projects
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=GeorgeAyy&repo=Web-Ninjas-El-Cyber&theme=radical" />
