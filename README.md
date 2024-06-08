@@ -62,7 +62,7 @@ I'm a Junior at university with a passion for web development and mobile develop
     <img src="https://img.shields.io/badge/LinkedIn-George%20Ayman-blue" alt="LinkedIn Badge"/>
   </a>
   <a href="https://discordapp.com/users/205465963678793728">
-    <img src="https://img.shields.io/badge/Discord-petrole%23205465963678793728-7289DA" alt="Discord Badge"/>
+    <img src="https://img.shields.io/badge/Discord-petrole-7289DA" alt="Discord Badge"/>
   </a>
 </div>
 
